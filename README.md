@@ -43,7 +43,7 @@ layout:
 <mark style="color:blue;">**➟**</mark> Como Líder de tu faction, es totalmente responsabilidad tuya a quienes invites a la faction, si tu invitaste a alguien desconocido a tu faction y este es sancionado por algo que amerite un strike, no podrás apelar con la excusa de que era alguien nuevo en tu faction. \
 \
 <mark style="color:purple;">**`LEADERBOARDS`**</mark> \
-<mark style="color:blue;">**➟**</mark>** Estos son los motivos por los cuales podrás ser descalificado del Top Kills**\
+<mark style="color:blue;">**➟**</mark> **Estos son los motivos por los cuales podrás ser descalificado del Top Kills**\
 \
 <mark style="color:purple;">➥</mark> Cheating (Admitido, en SS, Refusal, Anti-Cheat) **-** **Descalificación de la Leaderboard** \
 <mark style="color:purple;">➥</mark> Kill Boosting **- Descalificación de la Leaderboard** \
@@ -52,3 +52,9 @@ layout:
 <mark style="color:purple;">➥</mark> Phising **-** **Descalificación de la Leaderboard** \
 \
 **¡Buena Suerte compitiendo en SpaceHCF Network!**
+
+
+
+
+
+Preview: https://spacehcf.gitbook.io/strikes-kits
