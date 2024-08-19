@@ -52,9 +52,3 @@ layout:
 <mark style="color:purple;">➥</mark> Phising **-** **Descalificación de la Leaderboard** \
 \
 **¡Buena Suerte compitiendo en SpaceHCF Network!**
-
-
-
-
-
-Preview: https://spacehcf.gitbook.io/strikes-kits
