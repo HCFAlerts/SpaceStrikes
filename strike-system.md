@@ -42,5 +42,3 @@
 <mark style="color:purple;">➥</mark> Phising **-** **Disqualification from the Leaderboard**
 
 **Good luck competing on SpaceHCF Network!**
-
-Preview: https://spacehcf.gitbook.io/strikes-kits
