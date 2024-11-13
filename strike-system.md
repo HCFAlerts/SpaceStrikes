@@ -1,8 +1,6 @@
 # 🇺🇸 STRIKE SYSTEM 🚫
 
-<figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="https://media.discordapp.net/attachments/1191819371543277630/1271237647817244743/BannerSpace.jpg?ex=66b69bd1&#x26;is=66b54a51&#x26;hm=f09b5e12ca8636bd2f3ef7ff218ccd644a59e9a0429ea230fcf6904e610e8591&#x26;=&#x26;format=webp&#x26;width=412&#x26;height=112" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:purple;">➥</mark> Cheating (Admitted, in SS, Refusal, Anti-Cheat) **-** **1 STRIKE**\
 <mark style="color:purple;">➥</mark> BugAbuse **-** **1 STRIKE**\
@@ -41,4 +39,4 @@
 <mark style="color:purple;">➥</mark> Doxing **-** **Disqualification from the Leaderboard**\
 <mark style="color:purple;">➥</mark> Phising **-** **Disqualification from the Leaderboard**
 
-**Good luck competing on SpaceHCF Network!**
+**Good luck competing on Zurix Network! |** [**zurix.us**](https://www.zurix.us)
