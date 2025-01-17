@@ -14,18 +14,7 @@ layout:
 
 # 🇪🇸 SISTEMA DE STRIKES 🚫
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
-
-<mark style="color:purple;">➥</mark> Cheating (Admitido, en SS, Refusal, Anti-Cheat) **-** **1 STRIKE**\
-<mark style="color:purple;">➥</mark> BugAbuse **-** **1 STRIKE**\
-<mark style="color:purple;">➥</mark> Kill Boosting (Excesivo) **- 2 STRIKES**\
-<mark style="color:purple;">➥</mark> Truce **-** **1 STRIKE**\
-<mark style="color:purple;">➥</mark> Dtr / Raid Evading **- 1 STRIKE**\
-<mark style="color:purple;">➥</mark> Dupe **-** **DESCALIFICACIÓN**\
-<mark style="color:purple;">➥</mark> Phising **-** **DESCALIFICACIÓN**\
-<mark style="color:purple;">➥</mark> Ddox / Doxing **- DESCALIFICACIÓN**\
-\
-<mark style="color:purple;">**`SISTEMA DE REDUCCIÓN DE PUNTOS`**</mark>
+<figure><img src=".gitbook/assets/spacebanner (1).png" alt=""><figcaption></figcaption></figure>
 
 * 1 Strike: Reducción del 10% de los puntos totales.
 * 2 Strikes: Reducción del 15% de los puntos totales.
@@ -51,4 +40,4 @@ layout:
 <mark style="color:purple;">➥</mark> Doxing **-** **Descalificación de la Leaderboard**\
 <mark style="color:purple;">➥</mark> Phising **-** **Descalificación de la Leaderboard**\
 \
-**¡Buena Suerte compitiendo en Zurix Network! |** [**zurix.us**](https://www.zurix.us)
+&#xNAN;**¡Buena Suerte compitiendo en SpaceHCF Network! |** [**spacehcf.us**](https://www.spacehcf.us)
